@@ -1,0 +1,1 @@
+alert('barev im sireli husovem ays kayq qez dur kga')
